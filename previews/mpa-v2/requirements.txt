@@ -1,2 +1,0 @@
-# This requirements.txt is just for Community Cloud
-streamlit>=1.36
